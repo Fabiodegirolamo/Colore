@@ -1,0 +1,26 @@
+<html>
+    <body bgcolor="red">
+        <div class="Titolo">
+            <h1 id="title" align="center">PICK A COLOR</h1>
+        </div>
+        <div class="scritta">
+            <h3 id="write" align="center">Scegli un colore per cambiare lo sfondo</h3>
+
+        </div>
+        <form name="form" method="post">
+        <div class="buttons" align="center">
+            <input type="button" name="buttons" id="green" onclick="Verde()">
+            <input type="button" name="buttons"  id="red"  onclick="rosso()">
+            <input type="button" name="buttons"  id="blue" onclick="blu()">
+            <input type="button" name="buttons"  id="purple" onclick="viola()">
+            <input type="button" name="buttons"  id="yellow" onclick="giallo()">
+            <input type="button" name="buttons" id="lgtgreen" onclick="verdechiaro()">
+            
+
+
+        </div>
+        </form>
+
+
+    </body>
+    <html>
