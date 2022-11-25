@@ -1,0 +1,36 @@
+<script>
+        function Verde()
+        {
+            document.body.style.backgroundColor = "green";
+        }
+        function rosso()
+        {
+            document.body.style.backgroundColor = "red";
+        }
+        function giallo()
+        {
+
+        
+        document.body.style.backgroundColor = "yellow";
+        }
+        function blu()
+        {
+
+        
+        document.body.style.backgroundColor = "blue";
+        }
+        function viola()
+        {
+
+        
+        document.body.style.backgroundColor = "purple";
+        }
+        function verdechiaro()
+        {
+
+        
+        document.body.style.backgroundColor = "green";
+        }
+
+
+        </script>
