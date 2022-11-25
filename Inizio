@@ -1,0 +1,10 @@
+<html>
+    <body bgcolor="red">
+        <div class="Titolo">
+            <h1 id="title" align="center">PICK A COLOR</h1>
+        </div>
+        <div class="scritta">
+            <h3 id="write" align="center">Scegli un colore per cambiare lo sfondo</h3>
+            </div>
+            </body>
+            </html>
